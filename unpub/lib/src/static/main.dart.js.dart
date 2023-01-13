@@ -14260,15 +14260,15 @@ r.t(p,"site-footer")
 r.B(p)
 s=o.a(T.x(q,p,"a"))
 r.t(s,"link")
-T.an(s,"href","https://github.com/bytedance/unpub")
+T.an(s,"href","https://github.com/Thermofish-DSNY/unpub")
 r.H(s)
 T.X(s,"Source code")
 T.X(p," ")
 o=o.a(T.x(q,p,"a"))
 r.t(o,"link github_issue")
-T.an(o,"href","https://github.com/bytedance/unpub/issues/new")
+T.an(o,"href","https://pub.dev")
 r.H(o)
-T.X(o,"Report an issue")
+T.X(o,"pub.dev")
 r.a5(p)}}
 V.mk.prototype={
 T:function(){var s,r,q=this,p=new V.hk(E.qs(q,0,3)),o=\$.vK
